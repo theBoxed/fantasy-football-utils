@@ -1,0 +1,21 @@
+                                            "74": 0.200756877,  //50+ yard field goal
+                                            "75": 0.315465536, //
+                                            "76": 0.114708659, //
+                                            "77": 0.492746619, //50-49 yard field goal
+                                            "78": 0.653611601, // 
+                                            "79": 0.160864982, //
+                                            "80": 1.024143285, // Under 30 yard field goal
+                                            "81": 1.092789111, // 
+                                            "82": 0.068645826,
+                                            "83": 1.717646781,
+                                            "84": 2.061866248,
+                                            "85": 0.344219467,
+                                            "86": 2.546561665,
+                                            "87": 2.716671729,
+                                            "88": 0.170110064,
+                                            "198": 0.200756877,
+                                            "199": 0.315465536,
+                                            "200": 0.114708659
+
+
+https://fantasy.espn.com/apis/v3/games/fba/seasons/2020/segments/0/leagues/653832?rosterForTeamId=1&view=mDraftDetail&view=mLiveScoring&view=mMatchupScore&view=mPendingTransactions&view=mPositionalRatings&view=mRoster&view=mSettings&view=mTeam&view=modular&view=mNav
